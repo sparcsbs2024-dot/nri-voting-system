@@ -1,4 +1,4 @@
-const API = "/api";
+const API = "https://nri-voting-system-production.up.railway.app/api"
 
 export const registerVoter = async (data) => {
   const res = await fetch(`${API}/register`, {
