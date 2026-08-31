@@ -1,0 +1,7 @@
+body { margin:0; font-family: Arial; background: #f4f6f8; }
+.container { max-width: 500px; margin: 40px auto; padding: 25px; background: white; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+button { background: #0b3d91; color:white; border:none; padding: 12px 20px; border-radius:6px; cursor:pointer; width:100%; font-weight:bold; }
+input { width:100%; padding:12px; margin:10px 0; border-radius:6px; border:1px solid #ccc; box-sizing: border-box; }
+nav { background:#0b3d91; padding:15px; color:white; display:flex; justify-content:space-between; }
+nav a { color:white; text-decoration:none; margin-left:15px; }
+.success { background: #d1e7dd; color: #0f5132; padding: 12px; border-radius: 6px; margin-bottom: 15px; text-align:center; }
