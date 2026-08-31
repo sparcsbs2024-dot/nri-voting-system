@@ -1,0 +1,13 @@
+{
+  "services": {
+    "frontend": {
+      "framework": "vite",
+      "rootDirectory": "frontend"
+    },
+    "backend": {
+      "framework": "express",
+      "rootDirectory": "backend",
+      "route": "/api"
+    }
+  }
+}
